@@ -39,7 +39,7 @@ return header
 
 }
 
-//add to DOM (note: use class on HTML)
+//select and add to DOM (note: use class on HTML)
 const HeaderComp = document.querySelector('.header-container')
 
 HeaderComp.appendChild(Header())
