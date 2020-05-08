@@ -30,13 +30,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    A: It’s an object like structure that represents documents on the web that could be manipulated for a specific purpose. 
+
 2. What is an event?
+
+    A: events are actions register on nodes or elements in the DOM. 
 
 3. What is an event listener?
 
+    A:  its a method that attaches and event handler to the specified element. Syntax: element.addEventListener(event, function, useCapture);
+
 4. Why would we convert a NodeList into an Array?
 
+    A: NodeLists are array-like but dont’ feature many of the methods provided by the Array, like push/pop,  splice, filter, etc
+
 5. What is a component?
+
+    A: components are reusable bits of code consisting of two types: class and function components. 
+
 
 ### Git Set up
 
